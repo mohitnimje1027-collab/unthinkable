@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from './axios';
 
 export const createComplaint = (formData) =>
   axios.post('/api/complaints', formData, { headers: { 'Content-Type': 'multipart/form-data' } });
