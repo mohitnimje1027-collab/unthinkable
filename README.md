@@ -6,7 +6,14 @@ A full-stack web application for managing apartment society maintenance complain
 
 ## 🚀 Live Demo
 
-> Deploy to Render/Railway and update this link.
+| | URL |
+|---|---|
+| 🌐 **Frontend** | https://unthinkable-1dp9.onrender.com |
+| ⚙️ **Backend API** | https://unthinkable-mohit.onrender.com |
+
+**Default Admin Login:**
+- Email: `admin@society.com`
+- Password: `admin123`
 
 ---
 
